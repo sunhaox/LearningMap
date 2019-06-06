@@ -38,12 +38,21 @@ Python
 
 ### Qt
 
+[VS2015+Qt环境搭建](http://sunhx.cn/a/chengxu/2016/0410/22.html 'VS2015+Qt环境搭建')  
+
+[Qt(Windows) Debugger设置](http://sunhx.cn/a/chengxu/2017/0119/31.html 'Qt(Windows) Debugger设置')
+
 [丁林松QT高级编程视频教程](http://www.icoolxue.com/album/show/282 '丁林松QT高级编程视频教程')  
 （至少学完前20讲）  
 
 ### OpenCV
 
 ### PCL
+
+[windows系统下配置PCL1.8.0和VS2013](https://blog.csdn.net/wokaowokaowokao12345/article/details/47361369 'windows系统下配置PCL1.8.0和VS2013')
+
+[PCL学习例程](https://github.com/HadenSun/PCLTest 'PCL学习例程')  
+（PPT教程讲解，附带详细代码实现）
 
 ## Embedded
 
@@ -56,15 +65,18 @@ Python
 
 ### FPGA
 
+[夏宇闻-Verilog经典教程](http://bbs.elecfans.com/jishu_904799_1_6.html '夏宇闻-Verilog经典教程')  
+（基本Verilog语法和思路讲解）
+
 ## Python
 
 ### 基础
 
 [零基础入门Python](https://www.bilibili.com/video/av4050443?from=search&seid=2515798939366199627 '零基础入门python')  
-（教程比较细致，适合于没有编程基础的学习。）  
+（教程比较细致，适合于没有编程基础的学习）  
   
 [简明Python教程](http://www.kuqin.com/abyteofpython_cn/ '简明Python教程')  
-（简单基础，侧重对比不同语言区别。）  
+（简单基础，侧重对比不同语言区别）  
   
 ### Tensorflow
 
