@@ -65,8 +65,14 @@ Python
 
 ### FPGA
 
+根据需要，使用ZYNQ7020芯片。ZYNQ-7000系列是基于ARM Cortex-A9内核处理器和FPGA结构的SoC家族。  
+学习推荐掌握一定Linux编程基础。
+
 [夏宇闻-Verilog经典教程](http://bbs.elecfans.com/jishu_904799_1_6.html '夏宇闻-Verilog经典教程')  
-（基本Verilog语法和思路讲解）
+（基本Verilog语法和思路讲解，重点第三、四、五章）
+
+[ALINX_ZYNQ(AX7021)开发平台基础教程]('ALINX_ZYNQ(AX7021)开发平台基础教程')  
+（推荐AX7021开发板作为入门开发板，熟悉FPGA基本语法及编程、下载、调试步骤，熟悉ARM裸板程序编程流程，熟悉Linux编译使用）
 
 ## Python
 
