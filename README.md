@@ -71,10 +71,10 @@ Python
 [夏宇闻-Verilog经典教程](http://bbs.elecfans.com/jishu_904799_1_6.html '夏宇闻-Verilog经典教程')  
 （基本Verilog语法和思路讲解，重点第三、四、五章）
 
-[ALINX_ZYNQ(AX7021)开发平台基础教程]('ALINX_ZYNQ(AX7021)开发平台基础教程')  
+[ALINX_ZYNQ(AX7021)开发平台基础教程](https://github.com/HadenSun/LearningMap/blob/master/FPGA/cource_s1_ALINX_ZYNQ(AX7021)%E5%BC%80%E5%8F%91%E5%B9%B3%E5%8F%B0%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8BV1.01.pdf 'ALINX_ZYNQ(AX7021)开发平台基础教程')  
 （推荐AX7021开发板作为入门开发板，熟悉FPGA基本语法及编程、下载、调试步骤，熟悉ARM裸板程序编程流程，熟悉Linux编译使用）
 
-[MYC_C7Z01020入门指导手册]('MYC_C7Z01020入门指导手册')  
+[MYC_C7Z01020入门指导手册](https://github.com/HadenSun/LearningMap/blob/master/FPGA/MYC_C7Z01020%E5%85%A5%E9%97%A8%E6%8C%87%E5%AF%BC%E6%89%8B%E5%86%8C.pdf 'MYC_C7Z01020入门指导手册')  
 （实际开发使用了MYC_C7Z020核心板，这里主要关心PS端网络使用）
 
 ## Python
@@ -85,7 +85,7 @@ Python
 （教程比较细致，适合于没有编程基础的学习）  
   
 [简明Python教程](http://www.kuqin.com/abyteofpython_cn/ '简明Python教程')  
-（简单基础，侧重对比不同语言区别）  
+（简单基础，侧重对比不同语言区别，推荐已经有编程思想的）  
   
 ### Tensorflow
 
