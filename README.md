@@ -61,6 +61,8 @@ Python
 
 [PCL学习例程](https://github.com/HadenSun/PCLTest 'PCL学习例程')  
 （PPT教程讲解，附带详细代码实现）
+## Code
+[实验室界面软件](https://github.com/dongmuliu/SmartEye '深度、点云图像的实时显示')
 
 ## Embedded
 
