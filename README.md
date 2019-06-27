@@ -64,6 +64,16 @@ Python
 ## Code
 * [深度、点云图像的实时显示](https://github.com/dongmuliu/SmartEye '深度、点云图像的实时显示')(上位机软件详细代码讲解)
 
+* [文件转换助手](https://github.com/dongmuliu/SmartEye '文件转换助手')(csv、bin、png读取与显示详细代码讲解)
+
+* [CloudViewer](https://github.com/dongmuliu/CloudViewer 'CloudViewer')
+
+* [PointCloudTools](https://github.com/HadenSun/PointCloudTools 'PointCloudTools')
+
+* [相机tcp通信demo](https://github.com/dongmuliu/Tof-TCP-socket-demo '相机tcp通信demo')
+
+* [相机udp通信demo](https://github.com/dongmuliu/Tof-UDP-Socket-Demo '相机udp通信demo')
+
 ## Embedded
 
 ### STM32
