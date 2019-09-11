@@ -68,12 +68,14 @@ Python
 
 ### OpenCV
 
+:computer: [Windows下VS2013+OpenCV2.4环境配置](http://sunhx.cn/a/tuxiang/2019/0911/76.html 'Windows下VS2013+OpenCV2.4环境配置')  
+
 :gift: [文件转换助手](https://github.com/dongmuliu/SmartEye '文件转换助手')  
 (csv、bin、png读取与显示详细代码讲解)
 
 ### PCL
 
-:computer: [windows系统下配置PCL1.8.0和VS2013](https://blog.csdn.net/wokaowokaowokao12345/article/details/47361369 'windows系统下配置PCL1.8.0和VS2013')
+:computer: [Windows系统下配置PCL1.8.0和VS2013](https://blog.csdn.net/wokaowokaowokao12345/article/details/47361369 'Windows系统下配置PCL1.8.0和VS2013')
 
 :gift: [PCL学习例程](https://github.com/HadenSun/PCLTest 'PCL学习例程')  
 （PPT教程讲解，附带详细代码实现）
